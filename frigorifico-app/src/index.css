@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Seus estilos globais */
+body {
+  @apply bg-white text-gray-800;
+}
